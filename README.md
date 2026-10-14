@@ -1,2 +1,2 @@
-# jwd-USK
+# JWD-USK
 # Miko Angelo Dharma/XII RPL-1/16
