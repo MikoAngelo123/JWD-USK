@@ -1,2 +1,2 @@
-# jwd-skema-sertifikasi-beserta-peserta-praktik-demonstrasi-USK
+# jwd-USK
 # Miko Angelo Dharma/XII RPL-1/16
